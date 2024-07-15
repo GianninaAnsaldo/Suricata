@@ -1,0 +1,23 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.bg-rosado {
+    background-color: #E83E8C;
+}
+
+.logo-suricata {
+    width: 35%;
+}
+
+.color-titulo {
+    color: #707070;
+}
+
+.bg-tarjetas {
+    background-color: #17A2B8;
+}
+
+.logo-footer {
+    width: 3rem;
+}
